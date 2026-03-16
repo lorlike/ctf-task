@@ -7,7 +7,7 @@
 
 ```bash
 # 制作docker镜像
-cd crypto4python
+cd ctf-task/crypto4python
 docker build -t crypto4python .
 
 # 启动docker容器，对外端口为10000，容器名字是task-test
